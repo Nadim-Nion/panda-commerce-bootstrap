@@ -5,8 +5,11 @@ This is my first full-length website which is made my bootstrap 5. I have custom
 
 
 ## Live Website
-
+GitHub Pages:
 https://nadim-nion.github.io/panda-commerce-bootstrap/
+
+Netlify:
+https://panda-ecommerce-bootstrap-nion.netlify.app/
 ## Deployment
 
 To deploy this project on GitHub
